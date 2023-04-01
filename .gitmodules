@@ -1,0 +1,30 @@
+[submodule "08_Dart_Sample"]
+	path = 08_Dart_Sample
+	url = https://github.com/simpleease/08_Dart_Sample
+[submodule "13_listview_demo"]
+	path = 13_listview_demo
+	url = https://github.com/simpleease/13_listview_demo
+[submodule "11_Flutter_lifecycle"]
+	path = 11_Flutter_lifecycle
+	url = https://github.com/simpleease/11_Flutter_lifecycle
+[submodule "15_custom_ui_demo"]
+	path = 15_custom_ui_demo
+	url = https://github.com/simpleease/15_custom_ui_demo
+[submodule "19_gesture_demo"]
+	path = 19_gesture_demo
+	url = https://github.com/simpleease/19_gesture_demo
+[submodule "21_router_demo"]
+	path = 21_router_demo
+	url = https://github.com/simpleease/21_router_demo
+[submodule "20_data_transfer"]
+	path = 20_data_transfer
+	url = https://github.com/simpleease/20_data_transfer
+[submodule "22_app_animation"]
+	path = 22_app_animation
+	url = https://github.com/simpleease/22_app_animation
+[submodule "24_network_demo"]
+	path = 24_network_demo
+	url = https://github.com/simpleease/24_network_demo
+[submodule "23_dart_async"]
+	path = 23_dart_async
+	url = https://github.com/simpleease/23_dart_async
