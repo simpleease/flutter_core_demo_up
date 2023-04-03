@@ -34,3 +34,6 @@
 [submodule "26_native_method"]
 	path = 26_native_method
 	url = https://github.com/simpleease/26_native_method
+[submodule "27_native_view"]
+	path = 27_native_view
+	url = https://github.com/simpleease/27_native_view.git
