@@ -31,3 +31,6 @@
 [submodule "25_data_persistence"]
 	path = 25_data_persistence
 	url = https://github.com/simpleease/25_data_persistence
+[submodule "26_native_method"]
+	path = 26_native_method
+	url = https://github.com/simpleease/26_native_method
