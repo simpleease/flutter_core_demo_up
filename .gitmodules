@@ -37,3 +37,6 @@
 [submodule "27_native_view"]
 	path = 27_native_view
 	url = https://github.com/simpleease/27_native_view.git
+[submodule "30_provider_demo"]
+	path = 30_provider_demo
+	url = https://github.com/simpleease/30_provider_demo
