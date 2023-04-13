@@ -40,3 +40,6 @@
 [submodule "30_provider_demo"]
 	path = 30_provider_demo
 	url = https://github.com/simpleease/30_provider_demo
+[submodule "32_i18n_demo"]
+	path = 32_i18n_demo
+	url = https://github.com/simpleease/32_i18n_demo
