@@ -43,3 +43,15 @@
 [submodule "32_i18n_demo"]
 	path = 32_i18n_demo
 	url = https://github.com/simpleease/32_i18n_demo
+[submodule "33_multi_screen_demo"]
+	path = 33_multi_screen_demo
+	url = https://github.com/simpleease/33_multi_screen_demo
+[submodule "38_test_app"]
+	path = 38_test_app
+	url = https://github.com/simpleease/38_test_app
+[submodule "39_crashy_demo"]
+	path = 39_crashy_demo
+	url = https://github.com/simpleease/39_crashy_demo
+[submodule "40_peformance_demo"]
+	path = 40_peformance_demo
+	url = https://github.com/simpleease/40_peformance_demo
